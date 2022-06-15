@@ -1,1 +1,1 @@
-# Simple-linear-rep
+# SimpleLinearRegression
